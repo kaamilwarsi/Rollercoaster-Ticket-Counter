@@ -1,27 +1,22 @@
-# Rollercoaster Ticket Counter
+# Python Beginner Projects
 
-This is a beginner Python project that simulates a roller coaster ticket system.
+This repository contains a collection of small Python projects that I built while learning the fundamentals of programming.
 
-The program checks whether a person can ride based on height and then calculates the ticket price based on age. It also includes an optional photo purchase and generates the final bill.
+The purpose of this repository is to document my progress as I learn Python and practice basic programming concepts such as:
 
-## Features
-
-- Height eligibility check
-- Ticket pricing by age group
-- Optional photo purchase
-- Final bill calculation
-
-## Concepts Used
-
-- Python basics
 - User input
-- Variables
 - Conditional statements (if / elif / else)
+- Basic program logic
+- Simple interactive programs
 
-## File
+## Projects
 
-- `rollercoaster.py` – Main Python program
+### 1. Rollercoaster Ticket Counter
+A small program that determines whether a person can ride a rollercoaster based on their height and calculates the ticket price depending on age and optional photo purchase.
+
+### 2. Treasure Island Game
+A text-based adventure game where the player makes a series of decisions to try to find a hidden treasure.
 
 ## Purpose
 
-This project was built as part of learning Python programming and practicing conditional logic.
+These projects are part of my early programming practice while learning Python. As I continue learning, more projects and improvements will be added to this repository.
